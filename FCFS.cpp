@@ -20,7 +20,7 @@ int main()
         for(j=0;j<i;j++)
             wt[i]+=bt[j];
     }
- 
+
     printf("\nProcess\t\tBurst Time\tWaiting Time\tTurnaround Time");
     for(i=0;i<n;i++)
     {
